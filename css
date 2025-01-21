@@ -1,0 +1,11 @@
+src/
+├── components/
+├── redux/
+│   ├── actions/
+│   │   └── tasks.js
+│   ├── reducers/
+│   │   ├── index.js
+│   │   └── tasksReducer.js
+│   └── store.js
+├── screens/
+└── App.js
